@@ -5,5 +5,9 @@ public class helloworld {
         int b = 7;
         int sum = a + b;
         System.out.println("Sum of " + a + " and " + b + " is: " + sum);
+        
+        // Adding subtraction operation
+        int difference = b - a;
+        System.out.println("Difference between " + b + " and " + a + " is: " + difference);
     }
 }
